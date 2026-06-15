@@ -1,7 +1,7 @@
 # FindClearAndPowerPc
 
 Programma PowerShell completo per manutenzione Windows: pulizia sicura, riparazione del sistema,
-aggiornamento applicazioni, ricerca online dei driver, analisi eventi, monitor salute/prestazioni, controllo processi sospetti, ottimizzazioni conservative e sezione
+aggiornamento applicazioni, ricerca online dei driver, ottimizzazioni conservative e sezione
 **Perfect Display** per applicare la migliore modalità schermo/GPU rilevabile dal sistema.
 
 ## Avvio rapido con menu
